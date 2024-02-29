@@ -14,7 +14,7 @@
 ### Projects
 
 
-PWC Switzerland Power BI Simulation on Forage| February 2024
+#### PWC Switzerland Power BI Simulation on Forage| February 2024
 
 •	Completed a job simulation where I strengthened my Power BI skills to better understand clients and their data visualization needs.
 •	Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to respond to client requests with well-designed solutions.
@@ -22,8 +22,8 @@ PWC Switzerland Power BI Simulation on Forage| February 2024
 •	Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
 
-House price prediction University thesis project
-MiSIS University | Moscow, Russia |February 2022-May 2023
+#### House price prediction University thesis project
+#### MiSIS University | Moscow, Russia |February 2022-May 2023
 
 •	Used Pandas ,Excel and Python to clean, analyse and predict the prices using different algorithms
 •	Deployed the best model on Flask
@@ -32,8 +32,8 @@ MiSIS University | Moscow, Russia |February 2022-May 2023
 •	Analysed the dataset using Python and implemented 5 different algorithms i.e. multiple linear regression, Random Forest, Decision Tree, 1D CNN and LSTM, achieving Random Forest model as the best model with lowest RMSE and a R2-Score of approximately 97% and 83% on training and testing set.
 
 
-Customer Segmentation Personal project
-MiSIS University | Moscow, Russia |September 2022-October2022
+#### Customer Segmentation Personal project
+#### MiSIS University | Moscow, Russia |September 2022-October2022
 
 •	Used Pandas and Python to segment bank customers based on their location and age using K-means clustering.
 •	Successfully segmented 1 million + customers into distinct groups.
@@ -42,8 +42,8 @@ MiSIS University | Moscow, Russia |September 2022-October2022
 •	Presented actionable recommendations for target marketing strategies.
 
 
-Sales Data Analysis project
-Freelance | Moscow, Russia |September 2022-October 2022
+#### Sales Data Analysis project
+#### Freelance | Moscow, Russia |September 2022-October 2022
 
 •	Cleaned and processed 24 months of sales data using Excel, increasing the probability in data accuracy.
 •	Identified key sales trends and insights, such as customer purchasing behaviours.
@@ -53,10 +53,10 @@ Freelance | Moscow, Russia |September 2022-October 2022
 
 
 ### Education
-Master’s degree in Data Science 
+#### Master’s degree in Data Science 
 National University of Science and Technology MISiS | Moscow, Russia.
 
-Bachelor of Science in Business informatics 
+#### Bachelor of Science in Business informatics 
 Lobachevsky State University of Nizhny Novgorod | Nizhny Novgorod, Russia.
 
 ### Certifications
