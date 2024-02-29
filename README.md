@@ -60,7 +60,11 @@ National University of Science and Technology MISiS | Moscow, Russia.
 Lobachevsky State University of Nizhny Novgorod | Nizhny Novgorod, Russia.
 
 ### Certifications
-PwC Switzerland-Power BI Job Simulation 
+PwC Switzerland-Power BI Job Simulation |Feb 2024
+
+
 Data Visualisation in Tableau
+
+
 Google Analytics Individual Qualification
 
