@@ -3,15 +3,17 @@
 ## Data Analyst | Business Intelligence Analyst | Data Governance Analyst | Market Research Analyst
 
 ## Table of contents
-# [Skills and Competence](#skills-and-competence)
-# [Projects](#projects)
-  - # [Excel Projects](#excel-projects)
-  - # [Power BI Projects](#power-bi-projects)
-  - # [SQL Projects](#sql-projects)
-  - # [Tableau Projects](#tableau-projects)
-  - # [Python Projects](#python-projects)
-# [Education](#education)
-# [Certifications](#certifications)
+### [Skills and Competence](#skills-and-competence)
+### [Projects](#projects)
+  - ### [Excel Projects](#excel-projects)
+  - ### [Power BI Projects](#power-bi-projects)
+  - ### [SQL Projects](#sql-projects)
+  - ### [Tableau Projects](#tableau-projects)
+  - ### [Python Projects](#python-projects)
+
+    
+### [Education](#education)
+### [Certifications](#certifications)
 
 
 
