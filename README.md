@@ -3,12 +3,18 @@
 ## Data Analyst | Business Intelligence Analyst | Data Governance Analyst | Market Research Analyst
 
 ### Skills and Competence
+
 • Strong analytical skills with expertise in data analysis, modeling, and visualization tools such 
   as:SQL, Excel, Power BI.
+  
 •	Dashboard design
+
 •	Critical thinking
+
 •	Generate reports and business insights
+
 •	Communication: Effective data presentation and reporting
+
 •	Strong attention to detail
 
 ### Projects
