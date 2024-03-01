@@ -2,7 +2,7 @@
 
 ## Data Analyst | Business Intelligence Analyst | Data Governance Analyst | Market Research Analyst
 
-### Skills and Competence
+## Skills and Competence
 
 • Strong analytical skills with expertise in data analysis, modeling, and visualization tools such 
   as:SQL, Excel, Power BI.
@@ -17,10 +17,10 @@
 
 •	Strong attention to detail
 
-### Projects
+## Projects
 
 
-#### PWC Switzerland Power BI Simulation on Forage| February 2024
+### PWC Switzerland Power BI Simulation on Forage| February 2024
 
 •	Completed a job simulation where I strengthened my Power BI skills to better understand clients and their data visualization needs.
 
@@ -31,8 +31,8 @@
 •	Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
 
-#### House price prediction University thesis project
-#### MiSIS University | Moscow, Russia |February 2022-May 2023
+### House price prediction University thesis project
+### MiSIS University | Moscow, Russia |February 2022-May 2023
 
 •	Used Pandas ,Excel and Python to clean, analyse and predict the prices using different algorithms
 
@@ -45,8 +45,8 @@
 •	Analysed the dataset using Python and implemented 5 different algorithms i.e. multiple linear regression, Random Forest, Decision Tree, 1D CNN and LSTM, achieving Random Forest model as the best model with lowest RMSE and a R2-Score of approximately 97% and 83% on training and testing set.
 
 
-#### Customer Segmentation Personal project
-#### MiSIS University | Moscow, Russia |September 2022-October2022
+### Customer Segmentation Personal project
+### MiSIS University | Moscow, Russia |September 2022-October2022
 
 •	Used Pandas and Python to segment bank customers based on their location and age using K-means clustering.
 
@@ -59,8 +59,8 @@
 •	Presented actionable recommendations for target marketing strategies.
 
 
-#### Sales Data Analysis project
-#### Freelance | Moscow, Russia |September 2022-October 2022
+### Sales Data Analysis project
+### Freelance | Moscow, Russia |September 2022-October 2022
 
 •	Cleaned and processed 24 months of sales data using Excel, increasing the probability in data accuracy.
 
@@ -73,14 +73,14 @@
 •	Developed data-driven recommendations for optimizing sales strategies
 
 
-### Education
-#### Master’s degree in Data Science 
+## Education
+### Master’s degree in Data Science 
 National University of Science and Technology MISiS | Moscow, Russia.
 
-#### Bachelor of Science in Business informatics 
+### Bachelor of Science in Business informatics 
 Lobachevsky State University of Nizhny Novgorod | Nizhny Novgorod, Russia.
 
-### Certifications
+## Certifications
 PwC Switzerland-Power BI Job Simulation |Feb 2024
 
 
