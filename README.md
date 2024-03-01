@@ -2,6 +2,19 @@
 
 ## Data Analyst | Business Intelligence Analyst | Data Governance Analyst | Market Research Analyst
 
+## Table of contents
+# [Skills and Competence](#skills-and-competence)
+# [Projects](#projects)
+  - # [Excel Projects](#excel-projects)
+  - # [Power BI Projects](#power-bi-projects)
+  - # [SQL Projects](#sql-projects)
+  - # [Tableau Projects](#tableau-projects)
+  - # [Python Projects](#python-projects)
+# [Education](#education)
+# [Certifications](#certifications)
+
+
+
 ## Skills and Competence
 
 • Strong analytical skills with expertise in data analysis, modeling, and visualization tools such 
@@ -19,6 +32,22 @@
 
 ## Projects
 
+## Excel Projects
+
+### Sales Data Analysis project
+### Freelance | Moscow, Russia |September 2022-October 2022
+
+•	Cleaned and processed 24 months of sales data using Excel, increasing the probability in data accuracy.
+
+•	Identified key sales trends and insights, such as customer purchasing behaviours.
+
+•	Developed interactive data visualizations using Excel charts and graphs. Presented actionable insights and recommendations derived from data analysis in a visually appealing and accessible format on a Dashboard, increasing the probability of stakeholder buy-in and support for proposed strategies.
+
+•	Conducted statistical analysis of sales data using Excel functions and formulas, identifying correlations between variables such as pricing, promotions, and sales volume.
+
+•	Developed data-driven recommendations for optimizing sales strategies
+
+## Power BI Projects
 
 ### PWC Switzerland Power BI Simulation on Forage| February 2024
 
@@ -30,6 +59,9 @@
 
 •	Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
+## SQL Projects
+## Tableau Projects
+## Python Projects
 
 ### House price prediction University thesis project
 ### MiSIS University | Moscow, Russia |February 2022-May 2023
@@ -59,18 +91,6 @@
 •	Presented actionable recommendations for target marketing strategies.
 
 
-### Sales Data Analysis project
-### Freelance | Moscow, Russia |September 2022-October 2022
-
-•	Cleaned and processed 24 months of sales data using Excel, increasing the probability in data accuracy.
-
-•	Identified key sales trends and insights, such as customer purchasing behaviours.
-
-•	Developed interactive data visualizations using Excel charts and graphs. Presented actionable insights and recommendations derived from data analysis in a visually appealing and accessible format on a Dashboard, increasing the probability of stakeholder buy-in and support for proposed strategies.
-
-•	Conducted statistical analysis of sales data using Excel functions and formulas, identifying correlations between variables such as pricing, promotions, and sales volume.
-
-•	Developed data-driven recommendations for optimizing sales strategies
 
 
 ## Education
@@ -79,6 +99,7 @@ National University of Science and Technology MISiS | Moscow, Russia.
 
 ### Bachelor of Science in Business informatics 
 Lobachevsky State University of Nizhny Novgorod | Nizhny Novgorod, Russia.
+
 
 ## Certifications
 PwC Switzerland-Power BI Job Simulation |Feb 2024
