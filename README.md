@@ -1,8 +1,15 @@
 # Maud Kabaira Portfolio
 
+
 ## Data Analyst | Business Intelligence Analyst | Data Governance Analyst | Market Research Analyst
 
+
+
+
 ## Table of contents
+---
+### [Education](#education)
+### [Certifications](#certifications)
 ### [Skills and Competence](#skills-and-competence)
 ### [Projects](#projects)
   - ### [Excel Projects](#excel-projects)
@@ -11,14 +18,30 @@
   - ### [Tableau Projects](#tableau-projects)
   - ### [Python Projects](#python-projects)
 
-    
-### [Education](#education)
-### [Certifications](#certifications)
 
+
+## Education
+---
+### Master’s degree in Data Science 
+National University of Science and Technology MISiS | Moscow, Russia.
+
+### Bachelor of Science in Business informatics 
+Lobachevsky State University of Nizhny Novgorod | Nizhny Novgorod, Russia.
+
+
+## Certifications
+---
+PwC Switzerland-Power BI Job Simulation |Feb 2024
+
+
+Data Visualisation in Tableau
+
+
+Google Analytics Individual Qualification
 
 
 ## Skills and Competence
-
+---
 • Strong analytical skills with expertise in data analysis, modeling, and visualization tools such 
   as:SQL, Excel, Power BI.
   
@@ -33,11 +56,10 @@
 •	Strong attention to detail
 
 ## Projects
-
+---
 ## Excel Projects
 
 ### Sales Data Analysis project
-### Freelance | Moscow, Russia |September 2022-October 2022
 
 •	Cleaned and processed 24 months of sales data using Excel, increasing the probability in data accuracy.
 
@@ -51,7 +73,7 @@
 
 ## Power BI Projects
 
-### PWC Switzerland Power BI Simulation on Forage| February 2024
+### PWC Switzerland Power BI Simulation on Forage
 
 •	Completed a job simulation where I strengthened my Power BI skills to better understand clients and their data visualization needs.
 
@@ -63,10 +85,15 @@
 
 ## SQL Projects
 ## Tableau Projects
+
+
+
+
+
 ## Python Projects
 
 ### House price prediction University thesis project
-### MiSIS University | Moscow, Russia |February 2022-May 2023
+
 
 •	Used Pandas ,Excel and Python to clean, analyse and predict the prices using different algorithms
 
@@ -79,8 +106,8 @@
 •	Analysed the dataset using Python and implemented 5 different algorithms i.e. multiple linear regression, Random Forest, Decision Tree, 1D CNN and LSTM, achieving Random Forest model as the best model with lowest RMSE and a R2-Score of approximately 97% and 83% on training and testing set.
 
 
-### Customer Segmentation Personal project
-### MiSIS University | Moscow, Russia |September 2022-October2022
+### Customer Segmentation Project
+
 
 •	Used Pandas and Python to segment bank customers based on their location and age using K-means clustering.
 
@@ -95,20 +122,5 @@
 
 
 
-## Education
-### Master’s degree in Data Science 
-National University of Science and Technology MISiS | Moscow, Russia.
 
-### Bachelor of Science in Business informatics 
-Lobachevsky State University of Nizhny Novgorod | Nizhny Novgorod, Russia.
-
-
-## Certifications
-PwC Switzerland-Power BI Job Simulation |Feb 2024
-
-
-Data Visualisation in Tableau
-
-
-Google Analytics Individual Qualification
 
