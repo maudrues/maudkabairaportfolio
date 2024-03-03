@@ -83,6 +83,16 @@ Google Analytics Individual Qualification
 
 •	Leveraged analytical problem-solving skills to examine HR data, particularly focusing on gender-related KPIs, and identified root causes for gender balance issues at the executive management level, highlighting a commitment to data-driven decision-making.
 
+
+
+PwC Project 1(Call center trends)                                      |     PwC Project 2(Customer retention)                                     |      PwC Project 3(HR Gender balance)    
+:.....................................................................:|:.........................................................................:|:...........................................................:
+![](adjusted_model.png)                                                |      ![](auto_model.png)                                                  |  ![](auto_model.png) 
+
+
+
+
+
 ## SQL Projects
 ## Tableau Projects
 
