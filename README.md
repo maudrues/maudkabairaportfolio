@@ -85,9 +85,9 @@ Google Analytics Individual Qualification
 
 
 
-PwC Project 1(Call center trends)                                      |     PwC Project 2(Customer retention)                                     |      PwC Project 3(HR Gender balance)    
-:.....................................................................:|:.........................................................................:|:...........................................................:
-![](adjusted_model.png)                                                |      ![](auto_model.png)                                                  |  ![](auto_model.png) 
+| PwC Project 1(Call center trends)                                      |     PwC Project 2(Customer retention)                                   |      PwC Project 3(HR Gender balance)                        |
+| ...................................................................... | ....................................................................... | ............................................................ |
+| ![](adjusted_model.png)                                                |      ![](auto_model.png)                                                |  ![](auto_model.png)                                         |
 
 
 
