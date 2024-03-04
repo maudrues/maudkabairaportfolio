@@ -6,19 +6,6 @@
 
 
 
-## Table of contents
----
-### [Education](#education)
-### [Certifications](#certifications)
-### [Skills and Competence](#skills-and-competence)
-### [Projects](#projects)
-  - ### [Excel Projects](#excel-projects)
-  - ### [Power BI Projects](#power-bi-projects)
-  - ### [SQL Projects](#sql-projects)
-  - ### [Tableau Projects](#tableau-projects)
-  - ### [Python Projects](#python-projects)
-
-
 
 ## Education
 ---
@@ -85,9 +72,19 @@ Google Analytics Individual Qualification
 
 
 
-| PwC Project 1(Call center trends)                                      |     PwC Project 2(Customer retention)                                   |      PwC Project 3(HR Gender balance)                        |
-| ...................................................................... | ....................................................................... | ............................................................ |
-| ![](dashboard.png)                                                |      ![](auto_model.png)                                                |  ![](auto_model.png)                                         |
+**PwC Project 1(Call center trends)**.[CHECK OUT](https://github.com/maudrues/Call_center_trends)    
+
+![](dashboard.png)   
+
+**PwC Project 2(Customer retention)** [CHECK OUT](https://github.com/maudrues/Customer-retention-analysis)
+
+
+![](custrisdash.png) 
+
+
+**PwC Project 3(HR Gender balance)** [CHECK OUT](https://github.com/maudrues/HR-Diversity-and-Inclusion)                        
+
+![](HR1.png)                                                                                
 
 
 
