@@ -1,7 +1,7 @@
 # Maud Kabaira Portfolio
 
 
-## Data Analyst | Business Intelligence Analyst | Data Governance Analyst | Market Research Analyst
+## Ms. Data Science | Data Analyst | Business Intelligence Analyst | Data Governance Analyst | Market Research Analyst | Customer Experience Analyst
 
 
 
@@ -27,34 +27,45 @@ Data Visualisation in Tableau
 Google Analytics Individual Qualification
 
 
-## Skills and Competence
+## Technical skills
 ---
-• Strong analytical skills with expertise in data analysis, modeling, and visualization tools such 
-  as:SQL, Excel, Power BI.
-  
-•	Dashboard design
+- High level of proficiency with Microsoft Office, including Excel.
+- SQL (Structured Query Language)
+- Tableau (basic)
+- Power BI dashboards
+- Python
+- Data manipulation and data visualization
+- Data cleaning and preprocessing
 
-•	Critical thinking
 
-•	Generate reports and business insights
+## Soft skills
+---
+- Critical thinking
+- Strong attention to detail
+- Effective communication skills
+- Problem solving
+- Teamwork
 
-•	Communication: Effective data presentation and reporting
-
-•	Strong attention to detail
 
 ## Projects
 ---
 ## Excel Projects
 
-### Sales Data Analysis project
+### Supermarket Sales Data Analysis. [More Details](https://github.com/maudrues/Supermarket_sales_analysis)
 
-•	Cleaned and processed 24 months of sales data using Excel, increasing the probability in data accuracy.
 
-•	Identified key sales trends and insights, such as customer purchasing behaviours.
 
-•	Developed interactive data visualizations using Excel charts and graphs. Presented actionable insights and recommendations derived from data analysis in a visually appealing and accessible format on a Dashboard, increasing the probability of stakeholder buy-in and support for proposed strategies.
+![](supermarketdashboard.png)   
 
-•	Conducted statistical analysis of sales data using Excel functions and formulas, identifying correlations between variables such as pricing, promotions, and sales volume.
+
+•	Cleaned and prepared database for sales data using Excel.
+
+•	Identified key sales trends and insights, such as customer purchasing behaviours , products and also services provided by the supermarket.
+
+•	Developed interactive Dashboard using Excel and Power Point for Dashboard design. Presented actionable insights and recommendations derived from data analysis in a visually appealing and accessible format on a Dashboard, 
+ increasing the probability of stakeholder buy-in and support for proposed strategies.
+
+•	Conducted  analysis of sales data using Excel tools, functions and formulas such as VLOOKUP,OFFSET,Pivot tables, Pivot charts and slicers .
 
 •	Developed data-driven recommendations for optimizing sales strategies
 
