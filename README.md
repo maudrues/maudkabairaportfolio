@@ -72,17 +72,17 @@ Google Analytics Individual Qualification
 
 
 
-**PwC Project 1(Call center trends)**.[CHECK OUT](https://github.com/maudrues/Call_center_trends)    
+**PwC Project 1(Call center trends)**.[More Details](https://github.com/maudrues/Call_center_trends)    
 
 ![](dashboard.png)   
 
-**PwC Project 2(Customer retention)** [CHECK OUT](https://github.com/maudrues/Customer-retention-analysis)
+**PwC Project 2(Customer retention)** [More Details](https://github.com/maudrues/Customer-retention-analysis)
 
 
 ![](custrisdash.png) 
 
 
-**PwC Project 3(HR Gender balance)** [CHECK OUT](https://github.com/maudrues/HR-Diversity-and-Inclusion)                        
+**PwC Project 3(HR Gender balance)** [More Details](https://github.com/maudrues/HR-Diversity-and-Inclusion)                        
 
 ![](HR1.png)                                                                                
 
