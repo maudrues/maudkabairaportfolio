@@ -102,6 +102,15 @@ Google Analytics Individual Qualification
 
 
 ## SQL Projects
+
+
+
+**Walmart Sales Data Analysis in SQL**.[More Details](https://github.com/maudrues/Walmart_sales_data_analysis_SQL)
+
+![](walmart.jfif)  
+
+
+
 ## Tableau Projects
 
 
