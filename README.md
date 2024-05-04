@@ -83,17 +83,17 @@ Google Analytics Individual Qualification
 
 
 
-**PwC Project 1(Call center trends)**.[More Details](https://github.com/maudrues/Call_center_trends)    
+### ***PwC Project 1(Call center trends)***.[More Details](https://github.com/maudrues/Call_center_trends)    
 
 ![](dashboard.png)   
 
-**PwC Project 2(Customer retention)** [More Details](https://github.com/maudrues/Customer-retention-analysis)
+### ***PwC Project 2(Customer retention)*** [More Details](https://github.com/maudrues/Customer-retention-analysis)
 
 
 ![](custrisdash.png) 
 
 
-**PwC Project 3(HR Gender balance)** [More Details](https://github.com/maudrues/HR-Diversity-and-Inclusion)                        
+### PwC Project 3(HR Gender balance) [More Details](https://github.com/maudrues/HR-Diversity-and-Inclusion)                        
 
 ![](HR1.png)                                                                                
 
@@ -105,9 +105,16 @@ Google Analytics Individual Qualification
 
 
 
-**Walmart Sales Data Analysis in SQL**.[More Details](https://github.com/maudrues/Walmart_sales_data_analysis_SQL)
+### Walmart Sales Data Analysis in SQL.[More Details](https://github.com/maudrues/Walmart_sales_data_analysis_SQL)
 
 ![](walmart.jfif)  
+
+
+### Museum Paintings Data Analysis in SQL. [More Details](https://github.com/maudrues/Walmart_sales_data_analysis_SQL)
+
+![](painting.jfif) 
+
+This SQL project uses a dataset from Kaggle and then upload it to a PostgreSQL database using Python. Then the data was  analyzed and  20+  intermediate SQL queries were solved.  The dataset used is the famous paintings dataset with 8 tables taken from Kaggle. A simple Python script was used to upload data from CSV files to PostgreSQL database tables. We then use SQL queries to answer over 20 problems related to the famous paintings dataset. Joins ,subquries,etc were used in this project
 
 
 
