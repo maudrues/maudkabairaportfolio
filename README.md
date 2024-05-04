@@ -110,7 +110,7 @@ Google Analytics Individual Qualification
 ![](walmart.jfif)  
 
 
-### Museum Paintings Data Analysis in SQL. [More Details](https://github.com/maudrues/Walmart_sales_data_analysis_SQL)
+### Museum Paintings Data Analysis in SQL. [More Details](https://github.com/maudrues/Musuems_Paintings_data_analysis)
 
 ![](painting.jfif) 
 
